@@ -6,6 +6,7 @@ Created on Thu Aug  6 15:40:25 2015
 """
 
 import requests
+##import lettuce
 
 def logo_grabber(cmpny):
     url = 'https://logo.clearbit.com/' + cmpny #+ '.com'
@@ -20,4 +21,4 @@ def logo_grabber(cmpny):
     #r2 = requests.get(r) 
           
     #print (r2.content);
-    print (filename);     
+    print (filename);

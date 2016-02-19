@@ -3,5 +3,5 @@ Using the clear bit api all you have to do is pass a company url to the end of '
 
 The looper file will import a csv file which is list of url's and print the responding logo results to the drive.
 
-####USERNAME: censible-marketer
-###PASSWORD: u54kqEW6kBccWw2G
+USERNAME: censible-marketer
+PASSWORD: u54kqEW6kBccWw2G
